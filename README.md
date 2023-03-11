@@ -10,12 +10,16 @@ Front:
  ### 🛠 Tecnologias
 
 - [Angular 14]
+- [.NET C#]
+
 
 
  ### 🛠 IDE
 
 
 - [VS code](https://code.visualstudio.com/) 
+- [Visual Studio](https://code.visualstudio.com/) 
+
 ---
 
 ### Pré-requisitos
